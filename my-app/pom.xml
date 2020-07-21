@@ -28,7 +28,7 @@
 					<execution>
 						<phase>test</phase>
 						<configuration>
-							<projectFile>Add-and-delete-with-Json-soapui-project.xml</projectFile>
+							<projectFile>Add-and-Delete-with-Json-soapui-project.xml</projectFile>
 							<outputFolder>${project.build.directory}/surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>false</printReport>
